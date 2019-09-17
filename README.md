@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# title: Welcome to Nanje's homepage
+## description : feel free to bookmark and learn more about Github
 
 You can use the [editor on GitHub](https://github.com/nanjalaruth/nanjala.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
